@@ -8,7 +8,7 @@
 해당 연구는 웹UI를 만드는 것이 아닌 딥러닝을 학습시켜 관절염의 정도를 파악하고자 함  
 
 ### Data
-https://www.kaggle.com/tommyngx/kneeoa (u_net train / classification) 
+https://www.kaggle.com/tommyngx/kneeoa (u_net train / classification)   
 https://www.kaggle.com/tommyngx/digital-knee-xray (u_net test)
 
 
